@@ -1,10 +1,10 @@
 ### Ash Hong
-<div id="header" align="center">
-  <img src="(https://media.tenor.com/FbmyWIzGd7IAAAAd/catbug-cute.gif)
-" width="100"/>
-</div>
+Hello, I'm a current MIT student interested in game development and 3D modeling.
 
-https://media.tenor.com/FbmyWIzGd7IAAAAd/catbug-cute.gif
+You can find all my passion projects here!
+
+[catbug-cute](https://media.tenor.com/FbmyWIzGd7IAAAAd/catbug-cute.gif)
+
 <!--
 **ashketchmmm/ashketchmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
