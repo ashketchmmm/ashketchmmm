@@ -1,6 +1,6 @@
 ### Ash Hong
 <div id="header" align="center">
-  <img src="[catbug-cute](https://github.com/ashketchmmm/ashketchmmm/assets/89163825/f0103dea-a4d4-49cf-8307-b8ccc5ab72a3)
+  <img src="(https://media.tenor.com/FbmyWIzGd7IAAAAd/catbug-cute.gif)
 " width="100"/>
 </div>
 <!--
