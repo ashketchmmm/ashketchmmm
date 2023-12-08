@@ -1,8 +1,8 @@
 ### Ash Hong
 <div id="header" align="center">
-  <img src="https://media.tenor.com/FbmyWIzGd7IAAAAd/catbug-cute.gif" width="100"/>
+  <img src="[catbug-cute](https://github.com/ashketchmmm/ashketchmmm/assets/89163825/f0103dea-a4d4-49cf-8307-b8ccc5ab72a3)
+" width="100"/>
 </div>
-[catbug-cute](https://github.com/ashketchmmm/ashketchmmm/assets/89163825/f0103dea-a4d4-49cf-8307-b8ccc5ab72a3)
 <!--
 **ashketchmmm/ashketchmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
