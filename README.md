@@ -3,7 +3,7 @@ Hello, I'm a current MIT student interested in game development and 3D modeling.
 
 You can find all my passion projects here!
 
-![catbug-cute](https://github.com/ashketchmmm/ashketchmmm/assets/89163825/b2daf451-9d7c-42e3-bf6f-afae36d2429d)
+[catbug-cute](https://github.com/ashketchmmm/ashketchmmm/assets/89163825/b2daf451-9d7c-42e3-bf6f-afae36d2429d)
 
 <!--
 **ashketchmmm/ashketchmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
