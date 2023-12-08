@@ -3,8 +3,6 @@ Hello, I'm a current MIT student interested in game development and 3D modeling.
 
 You can find all my passion projects here!
 
-![image](https://github.com/ashketchmmm/ashketchmmm/assets/89163825/7bbb29ea-4450-46a4-aec0-c3fa7806210a)
-
 <!--
 **ashketchmmm/ashketchmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
